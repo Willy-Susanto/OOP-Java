@@ -1,10 +1,7 @@
 # ☕ Java OOP: Teori, Konsep & Implementasi Langsung
 
 Halo, selamat datang! 👋
-
-Repo ini berisi catatan belajar OOP Java yang disusun bertahap, mulai dari dasar sampai ke design pattern. Setiap modul punya dua bagian: penjelasan konsep dan contoh kode yang langsung bisa dijalankan, jadi nggak cuma teori doang.
-
-Urutannya sengaja dibuat nyambung satu sama lain, tapi kamu juga bebas loncat ke modul mana pun yang paling relevan dengan yang lagi dipelajari sekarang.
+Repo ini berisi catatan belajar OOP Java yang disusun bertahap, mulai dari dasar sampai ke design pattern.
 
 ## 📚 Daftar Modul
 
@@ -52,4 +49,4 @@ javac Main.java
 java Main
 ```
 
-Setiap folder sudah dilengkapi komentar di dalam kodenya, jadi cukup baca dari sana kalau mau tahu konteksnya.
+Setiap folder sudah dilengkapi komentar di dalam kodenya, jadi ada penjelasan lebih didalamnya kalau mau tahu konteksnya.
